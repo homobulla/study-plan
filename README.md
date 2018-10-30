@@ -14,7 +14,7 @@
 
 -   `redux`: 基本的概念/产生原因/基本使用
 -   `webpack`的基础搭建，基本`API`,配合`vue-cli3`
--   `OOP`的深入学习，可以涉及一些`设计模式`
+-   `OOP`的深入学习（封装、继承、多态），可以涉及一些`设计模式`
 -   `nodejs`/`koa`: 练手项目
 -   `vue`的响应系统
 -   [每个 JavaScript 工程师都应懂的 33 个概念](https://github.com/stephentian/33-js-concepts)
@@ -26,3 +26,18 @@
 -   [x] 洋葱模型
 -   [ ] `oop`的深入
 -   [ ] `redux`的学习
+
+#### 10/24
+
+-   [x] `generator` and `async`的解析
+
+#### 10/25
+
+-   [ ] `grid`布局：（ 放弃这个知识点）
+-   [x] `oop`初步学习
+
+#### 10/29
+
+-   [x] `vue-router`如何实现的？
+
+#### 10/30
