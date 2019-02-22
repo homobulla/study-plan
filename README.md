@@ -18,6 +18,7 @@
 -   `nodejs`/`koa`: 练手项目
 -   `vue`的响应系统
 -   [每个 JavaScript 工程师都应懂的 33 个概念](https://github.com/stephentian/33-js-concepts)
+-   数据库相关
 
 ### 10 月
 
@@ -56,4 +57,3 @@
 - 个人知识体系的搭建开始吧（未完成）
 
 
-链表的学习比我想象的要久。
