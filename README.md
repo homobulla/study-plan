@@ -57,5 +57,7 @@
 - 个人知识体系的搭建开始吧（未完成）
 
 
-#### 2019/04/27 
-开始吧
+#### 2019/04/29
+- [2019 前端工程师手册（front-end-handbook-2019）](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [MDN的常用布局模块的实现方案](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
+- [11个js技巧](https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d)
